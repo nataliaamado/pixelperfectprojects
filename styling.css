@@ -2,7 +2,6 @@ h1 {
   color: #FF1493;
   font-family: forte;
   font-size: 450%;
-  <!---border: 2px solid powderblue;-->
   padding: 30px;
   margin: 10px;
   text-align: center;
@@ -12,7 +11,6 @@ p1 {
   color: #FF1493;
   font-family: ink free;
   font-size: 130%;
-  <!---border: 2px solid powderblue;-->
   padding: 30px;
   margin: 50px;
   text-align: center;
@@ -22,7 +20,6 @@ h2 {
   color: #FF1493;
   font-family: ink free;
   font-size: 300%;
-  <!---border: 2px solid powderblue;-->
   padding: 30px;
   margin: 50px;
   text-align: center;
@@ -31,7 +28,6 @@ p2 {
   color: #FF1493;
   font-family: ink free;
   font-size: 300%;
-  <!---border: 2px solid powderblue;-->
   padding: 30px;
   margin: 50px;
   text-align: center;
@@ -40,7 +36,6 @@ h3 {
   color: #FF1493;
   font-family: ink free;
   font-size: 300%;
-  <!---border: 2px solid powderblue;-->
   padding: 30px;
   margin: 50px;
   text-align: center;
@@ -49,7 +44,6 @@ p3 {
   color: #FF1493;
   font-family: ink free;
   font-size: 300%;
-  <!---border: 2px solid powderblue;-->
   padding: 30px;
   margin: 50px;
   text-align: center;
